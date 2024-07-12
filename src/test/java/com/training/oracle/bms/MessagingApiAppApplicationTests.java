@@ -8,7 +8,7 @@ class MessagingApiAppApplicationTests {
 
 	@Test
 	void contextLoads() {
-	//	assertEquals(200,200);
+		assertEquals(190,200);
 		
 	}
 

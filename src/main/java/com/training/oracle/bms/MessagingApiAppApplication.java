@@ -13,7 +13,7 @@ public class MessagingApiAppApplication {
 	
 	@GetMapping("name")
 	public  String printName() {
-		return "Chandana";
+		return "Hi Oracleeeee";
 	}
 
 	public static void  main(String[] args) {
