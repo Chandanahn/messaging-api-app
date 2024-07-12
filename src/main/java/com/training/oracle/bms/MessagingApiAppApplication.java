@@ -12,8 +12,8 @@ public class MessagingApiAppApplication {
 	}
 	
 	@GetMapping("name")
-	public  String printName() {
-		return "Chandana";
+	public  void printName() {
+		System.out.println( "Chandana");
 	}
 
 	public static void  main(String[] args) {
